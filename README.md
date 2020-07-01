@@ -17,6 +17,16 @@ Importants point are the Inventory reduction and improvment in order cicle time.
 The most important point are quqlity consistency throughout the lifetimi of the products. The distribution environment
 canvary greatly, especialy when the pruducts go from India to Santiago, Chile by example,
 Seasonal changes must to be considerent in the logistics of a pharmaceutical product.
-The inventory anagement has change from "Inventory Push" to "Just in Time", All that produce a increment in infoemation 
+The inventory anagement has change from "Inventory Push" to "Just in Time", All that produce a increment in information 
 in and out of the organization.
+THE SUPPLY CHAIN
+The pharmaceutical manufacturinag supply chain involves two main stages. the first is thevproduction of active ingredients(APIs).
+These are the key part of a drug,  witch produce an effect. Such production is chemical-intensive involving reactors for drug auabstance
+manufacture. The second is a phisical process know as formulation prodcution. Substance known as excipients are mixed with APIs to turn 
+a drug into a consumable form, such as tablet, liquid, capsule, cream, ointment or inyectable product.
+For nmore than a dacade now. China has been the largest manufacure of APIs in the world. Aound 40% of Mundial production is in China.
+Before US, Europe an Japan use to mnaufacure 90% of APIs, no eny more.
+India play a prominet role in the formulation segment of the industry.
+
+
 
