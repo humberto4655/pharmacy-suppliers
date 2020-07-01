@@ -46,6 +46,7 @@ In the future India will began to produce APLs.
 At the moment in very hard to proyect the end of the pandemic, to proyect when Chine will began exporting in regular form, when India will do the same.
 In any way in all probability the Pharmaceutical Chain Supply that came from Asia will have other extructure and we must to consider from which companies
 will be are principal suppliers.
+git_add
 
 
 
