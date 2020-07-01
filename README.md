@@ -26,7 +26,12 @@ manufacture. The second is a phisical process know as formulation prodcution. Su
 a drug into a consumable form, such as tablet, liquid, capsule, cream, ointment or inyectable product.
 For nmore than a dacade now. China has been the largest manufacure of APIs in the world. Aound 40% of Mundial production is in China.
 Before US, Europe an Japan use to mnaufacure 90% of APIs, no eny more.
-India play a prominet role in the formulation segment of the industry.
+India play a prominet role in the formulation segment of the industry. India is the third largest producers of pharmaceuticals in the
+world by volume.
+India department of Pharmaceuticals reported that it supply 20% of "generics" drugs. This are drug that are nol longer under patent 
+and are open to any company to produce are sell, and are priced below Brand names.
+Chile import 30% of its Pharmaceuticals from India
+
 
 
 
