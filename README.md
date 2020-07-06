@@ -47,7 +47,8 @@ At the moment in very hard to proyect the end of the pandemic, to proyect when C
 In any way in all probability the Pharmaceutical Chain Supply that came from Asia will have other extructure and we must to consider from which companies
 will be are principal suppliers.
 git_add
-git_add
+
+
 
 
 
